@@ -1,2 +1,1 @@
-#!/bin/bash
-first readme file in directory
+up_to_date
